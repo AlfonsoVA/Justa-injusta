@@ -6,3 +6,5 @@ Versión 1.0
 Instrucciones no muy precisas; para golpear es con abajo o s, con 3 niveles / rounds se decide el ganador. </br>
 Falta detalle en sprites y backgrounds. </br>
 Falta de efectos de sonido / animación. </br>
+## Observación:
+Mejorar los directorios para archivos.
